@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fa">
+    <meta charset="UTF-8">
+    <head>
+        <title>frorafte</title>
+    </head>
+    <body>
+    <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+        <path d="M10 10 H150 Q160 10 160 20 V100 Q160 110
+        150 110 H50 Q40 110 40 100 V80 Q40 70 30 70 H10 Z" fill="none" stroke="black"
+        stroke-width="2"/>
+    </svg>
+    </body>
+    </html>
